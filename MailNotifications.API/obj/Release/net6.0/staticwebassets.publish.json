@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RLwtcXkDD3ziLllEuXk9kkWJL7w60uErjGCH9LwZyqY=",
+  "Source": "MailNotifications.API",
+  "BasePath": "_content/MailNotifications.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

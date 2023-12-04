@@ -1,0 +1,3 @@
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Debug\net6.0\publish\MailNotifications.Models.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Debug\net6.0\publish\MailNotifications.Models.deps.json
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Debug\net6.0\publish\MailNotifications.Models.pdb

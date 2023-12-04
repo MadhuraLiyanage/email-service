@@ -1,0 +1,12 @@
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Release\net6.0\MailNotifications.Models.deps.json
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Release\net6.0\MailNotifications.Models.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\bin\Release\net6.0\MailNotifications.Models.pdb
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.csproj.AssemblyReference.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.AssemblyInfoInputs.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.AssemblyInfo.cs
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.csproj.CoreCompileInputs.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\refint\MailNotifications.Models.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\MailNotifications.Models.pdb
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Models\obj\Release\net6.0\ref\MailNotifications.Models.dll

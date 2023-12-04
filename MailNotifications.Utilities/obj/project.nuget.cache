@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LapReohRxUJOGIe4YZR0x463xR6bVuY0WBqSzgCBnScduvjq35K4v922dRDCdZ2+JNc2mE2WhE5S7QsFm5vs7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Developments\\.Net Core\\MailNotifications\\MailNotifications\\MailNotifications.Utilities\\MailNotifications.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Madhura Liyanage\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Madhura Liyanage\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Madhura Liyanage\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

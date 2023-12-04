@@ -1,0 +1,12 @@
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\bin\Debug\net6.0\MailNotifications.Utilities.deps.json
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\bin\Debug\net6.0\MailNotifications.Utilities.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\bin\Debug\net6.0\MailNotifications.Utilities.pdb
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.csproj.AssemblyReference.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.AssemblyInfoInputs.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.AssemblyInfo.cs
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.csproj.CoreCompileInputs.cache
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\refint\MailNotifications.Utilities.dll
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\MailNotifications.Utilities.pdb
+D:\Work Folders\Developments\MailNotifications\MailNotifications\MailNotifications.Utilities\obj\Debug\net6.0\ref\MailNotifications.Utilities.dll
